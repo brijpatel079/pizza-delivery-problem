@@ -1,0 +1,22 @@
+{
+  "name": "pizza-delivery-problem",
+  "version": "1.0.0",
+  "description": "Run the following command after installing nodejs on your computer. No need to install any extra packages of node.",
+  "main": "part1.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brijpatel079/pizza-delivery-problem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brijpatel079/pizza-delivery-problem/issues"
+  },
+  "homepage": "https://github.com/brijpatel079/pizza-delivery-problem#readme",
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  }
+}
